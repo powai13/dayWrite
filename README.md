@@ -1,0 +1,2 @@
+# dayWrite
+日記
