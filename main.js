@@ -1,4 +1,4 @@
-function csv2Array(filePath) { //csvﾌｧｲﾙﾉ相対ﾊﾟｽor絶対ﾊﾟｽ
+function csv2Array(deta.csv) { //csvﾌｧｲﾙﾉ相対ﾊﾟｽor絶対ﾊﾟｽ
 	var csvData = new Array();
 	var data = new XMLHttpRequest();	
 	data.open("GET", filePath, false); //true:非同期,false:同期
